@@ -30,17 +30,17 @@ function Footer(){
                </h2>
            </div>
            <div className="footerarea__links">
-                <a className="Youtube" >
+                <a className="Youtube" href="https://www.youtube.com/channel/UCCiA82nGppn1S6WV_gFHcAw/featured">
                     <FontAwesomeIcon icon={faYoutube} size="4x" />
                 </a>
-                <a className="Facebook" >
+                <a className="Facebook" href="https://www.facebook.com/profile.php?id=100077309365610">
                     <FontAwesomeIcon icon={faFacebook} size="4x"  />
                 </a>
-                <a className="Instagram" >
+                <a className="Instagram" href="https://instagram.com/sahara_theoceanofgadgets?utm_medium=copy_link">
                     <FontAwesomeIcon icon={faInstagram} size="4x"  />
                 </a>
                
-                <a className="Twitter" >
+                <a className="Twitter" href="https://twitter.com/SAHARA_Gadgets?t=LivN_7LiO8uzrLJ9gIRcDg&s=08">
                     <FontAwesomeIcon icon={faTwitter} size="4x"  />
                 </a> 
                
