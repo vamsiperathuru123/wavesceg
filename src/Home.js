@@ -5,14 +5,7 @@ import Header from './Header';
 import Footer from './Footer';
 import CarouselHome from './CarouselHome';
 import Navlinks from './Navlinks';
-import Te from './Te';
-import Nte from './Nte';
-import Electrical from './Electrical';
-import Ps from './Ps';
-import Electronics from './Electronics';
-import Lt from './Lt';
-import Cs from './Cs';
-import Khaleel from './Khaleel';
+
 
 
 

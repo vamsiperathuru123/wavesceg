@@ -33,6 +33,9 @@ function Navlinks(){
                     {show1?<Link to="/Lt">Latest Technology</Link>:null}
                     {show1?<Link to="/Cs">CS/IT</Link>:null}
                     {show1?<Link to="/Khaleel">Khaleel Sir</Link>:null}
+                    <Link to="Sa">
+                       Student Ambassador
+                    </Link>
                     <Link to="/Contacts">
                        Contact us
                     </Link>

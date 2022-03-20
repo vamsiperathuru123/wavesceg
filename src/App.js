@@ -13,6 +13,7 @@ import Cs from './Cs';
 import Electrical from './Electrical';
 import Lt from './Lt';
 import Khaleel from './Khaleel';
+import Sa from "./Sa";
 
 function App() {
   return (
@@ -49,6 +50,9 @@ function App() {
           </Route>
            <Route path="/Khaleel">
             <Khaleel/>
+          </Route>
+          <Route path="/Sa">
+            <Sa/>
           </Route>
           <Route path="/Contacts">
             <Contacts/>
