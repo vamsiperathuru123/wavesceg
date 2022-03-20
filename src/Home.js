@@ -30,31 +30,9 @@ function Home(){
                     <div>
                       <CarouselHome/>
                     </div>
-                    <div>
-                      <Te/>
-                    </div>
-                    <div>
-                      <Nte/>
-                    </div>
-                    <div>
-                      <Electrical/>
-                    </div>
-                    <div>
-                      <Ps/>
-                    </div>
-                    <div>
-                      <Electronics/>
-                    </div>
-                    <div>
-                      <Lt/>
-                    </div>
-                    <div>
-                      <Cs/>
-                    </div>
-                    <div>
-                      <Khaleel/>
-                    </div>
-                
+                    <h2 className='lap'>Events</h2>
+                    <h2 className='lap'>Workshops</h2>
+                      
                 </div>     
                 <Footer/>
         </div> 
