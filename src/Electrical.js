@@ -24,9 +24,7 @@ function Electrical(){
                       <CarouselHome/>
                     </div>
                     <div className='Events'>
-                        <div>
-                          <h2 className='lap'>Event 3</h2>
-                        </div>
+                        
                         <div className='image'>
                           <img className='image' src={i1} alt="1"/>
                         </div>
