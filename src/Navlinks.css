@@ -1,6 +1,6 @@
 .navlinks{
     background-color:black;
-    color: red;
+    color:white;
     
     
 
@@ -17,7 +17,7 @@
 
 }
 .navlinks__outer a{
-    color:red;
+    color:whitesmoke;
     text-decoration: none;
     cursor: pointer;
     padding: 4px;
